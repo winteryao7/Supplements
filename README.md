@@ -13,6 +13,8 @@ Supplementary figures, and tables (Detected Catalog; relocated catalog, and stre
 
 3. Yao et al., EPSL, 2021
 
-Similar content. The initial submission was rejected, and I re-process the data (the results hold robust)
+Similar content. The initial submission was rejected, and I re-process the data (the results hold robust).
 I am interested in more insights in better understanding the interaction between large earthquakes (dynamic
 stress perturbation), slow slip events, and associated micro-seismicity 
+
+4. Yao et al., JGR, 2017

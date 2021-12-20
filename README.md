@@ -18,3 +18,14 @@ I am interested in more insights in better understanding the interaction between
 stress perturbation), slow slip events, and associated micro-seismicity 
 
 4. Yao et al., JGR, 2017
+
+It contains a few tables, relocated aftershocks (mainly), detected earthquakes, repeating aftershocks. 
+Just to remind myself that: using repeating families of longer durations could provide insights into the fault
+healing after the megathrust (see Chaves et al., 2020, SciAdv). 
+
+5. Yao et al., GJI, 2015
+
+As my first project as a PhD at Georgia Tech, the work is even not close to "good" from the point of my view nowadays. 
+I missed so many details, and it would be great if I can could one day re-analyze the dataset and write another paper. 
+
+Machine learning might be a reasonable tool. Will keep this in mind.
